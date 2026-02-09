@@ -1,14 +1,11 @@
-
 #include <cstdlib>
 #include <iostream>
-
 using namespace std;
 void leerA();
 void imprimirA();
 void burbuja();
 
 int A[5], i;
-
 int main() {
 	leerA();
 	imprimirA();
